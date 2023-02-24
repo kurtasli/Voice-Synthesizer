@@ -17,7 +17,7 @@ integrated into the FPGA Starter Kit 3E card. Basically, the sound files with th
 
 ### Block Diagram
 <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/kurtasli/Voice-Synthesizer/main/project_block_diagram.png">
+  <img width="800" height="500" src="https://raw.githubusercontent.com/kurtasli/Voice-Synthesizer/main/block_diagram.png?token=GHSAT0AAAAAAB7GM65QZ74TAX2ZIY4SJPLKY7YEDEQ">
 </p>
 
 
