@@ -1,0 +1,11 @@
+	NET "SPI_MOSI" 	LOC = "T4" ;
+	NET "SPI_SCK"  	LOC = "U16";
+	NET "DAC_CS"  	   LOC = "N8" ;
+	NET "DAC_CLR"  	LOC = "P8" ;
+	NET "CLK"      	LOC = "C9" ;
+	NET "SPI_SS_B" 	LOC = "U3" ;
+	NET "AMP_CS"   	LOC = "N7" ;
+	NET "AD_CONV"  	LOC = "P11";	NET "SF_CE0"   	LOC = "D16";
+	NET "FPGA_INIT_B" LOC = "T3" ;	NET "B_ONE" 		LOC = "D18"| PULLDOWN;
+//	NET "B_ZERO" 		LOC = "H13" | PULLDOWN;
+	NET "B_BES" 		LOC = "V4" | PULLDOWN;
